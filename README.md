@@ -3,8 +3,8 @@
 
 
 
-![Screen1](https://github.com/MOstafaMOhamedX/resume/tree/main/screenshots/resume (1).jpg)
-![Screen2](https://github.com/MOstafaMOhamedX/resume/tree/main/screenshots/resume (2).jpg)
-![Screen3](https://github.com/MOstafaMOhamedX/resume/tree/main/screenshots/resume (3).jpg)
-![Screen4](https://github.com/MOstafaMOhamedX/resume/tree/main/screenshots/resume (4).jpg)
-![Screen5](https://github.com/MOstafaMOhamedX/resume/tree/main/screenshots/resume (5).jpg)
+![Screen1](screenshots/resume1.jpg)
+![Screen2](screenshots/resume2.jpg)
+![Screen3](screenshots/resume3.jpg)
+![Screen4](screenshots/resume4.jpg)
+![Screen5](screenshots/resume5.jpg)
